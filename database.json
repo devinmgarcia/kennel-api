@@ -35,17 +35,20 @@
     "customers": [{
             "id": 1,
             "name": "Hannah Hall",
-            "address": "7002 Chestnut Ct"
+            "address": "7002 Chestnut Ct",
+            "email": "hannah@hall.com"
         },
         {
             "id": 2,
             "name": "Frodo Baggins",
-            "address": "17 Shire Lane"
+            "address": "17 Shire Lane",
+            "email": "frodo@baggins.com"
         },
         {
             "id": 3,
             "name": "Hiro Protagonist",
-            "address": "1278 Sunset Blvd"
+            "address": "1278 Sunset Blvd",
+            "email": "hiro@protagonist.com"
         }
     ],
     "employees": [{
